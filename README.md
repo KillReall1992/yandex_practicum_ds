@@ -11,3 +11,6 @@ https://practicum.yandex.ru/data-scientist/
 ### ***Define toxic comments***:<br>
 - Online shop «WikiShop» starts new service. In this service users can change and update description of goods, like in wikipedia. It means that clients suggests their corrections and comments of other changes. Shop needs tool to find toxic comments, that will send toxic comments to moderator.
 
+
+### ***Define churn clients***:<br>
+- Customers began to leave the «Beta-Bank» every month. Bank marketing department make a decision that save current clients will be cheaper than attract new clients. Task is make a tool to understand will client leave the Bank in nearest time or not on historical data. 
