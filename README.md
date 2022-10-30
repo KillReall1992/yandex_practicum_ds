@@ -17,3 +17,6 @@ https://practicum.yandex.ru/data-scientist/
 
 ### ***Prediction of gold amount recovered from gold ore***:<br>
 Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. 
+
+### ***Car price prediction***:<br>
+Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. You need to build the model to determine the value. 
