@@ -16,7 +16,10 @@ https://practicum.yandex.ru/data-scientist/
 - Customers began to leave the «Beta-Bank» every month. Bank marketing department make a decision that save current clients will be cheaper than attract new clients. Task is make a tool to understand will client leave the Bank in nearest time or not on historical data. 
 
 ### ***Prediction of gold amount recovered from gold ore***:<br>
-Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. 
+- Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. 
 
 ### ***Car price prediction***:<br>
-Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. You need to build the model to determine the value. 
+- Rusty Bargain used car sales service is developing an app to attract new customers. In that app, you can quickly find out the market value of your car. You have access to historical data: technical specifications, trim versions, and prices. You need to build the model to determine the value. 
+
+### ***Discovering users that plan to leave***:<br>
+- The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. Interconnect's marketing team has collected some of their clientele's personal data, including information about their plans and contracts.
