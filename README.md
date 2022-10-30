@@ -14,3 +14,6 @@ https://practicum.yandex.ru/data-scientist/
 
 ### ***Define churn clients***:<br>
 - Customers began to leave the «Beta-Bank» every month. Bank marketing department make a decision that save current clients will be cheaper than attract new clients. Task is make a tool to understand will client leave the Bank in nearest time or not on historical data. 
+
+### ***Prediction of gold amount recovered from gold ore***:<br>
+Prepare a prototype of a machine learning model for Zyfra. The company develops efficiency solutions for heavy industry. The model should predict the amount of gold recovered from gold ore. You have the data on extraction and purification. The model will help to optimize the production and eliminate unprofitable parameters. 
